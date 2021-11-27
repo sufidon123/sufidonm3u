@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="VOD100" tvg-name=“Kabhi Khushi Kabhi Gham” tvg-logo=“https://upload.wikimedia.org/wikipedia/en/4/4d/Kabhi_Khushi_Kabhie_Gham..._poster.jpg” group-title=“Classic Bollywood Movies”,Kabhi Khushi Kabhi Gham
+http://162.12.215.254/Data/Movies/Hindi/Old/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29%20Hindi%201080p%20BluRay%20x264%203GB/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29%20Hindi%201080p%20BluRay%20x264%203GB.mp4
+
+#EXTINF:-1 tvg-id="VOD103" tvg-name=“Bhoothnath” tvg-logo=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnqkC4TVjxzGnkJ0Gi3mDf7wN659pw6otJOTR2i8VJAUJDYBZ” group-title=“Classic Bollywood Movies”,Bhoothnath
+https://llvod.mxplay.com/video/02a9260abccd9825a21d94ff55766b87/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="VOD107" tvg-name=“Baabul” tvg-logo=“https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgWHiIWEkvQwi-941AcRI0L2JTEPFVi6l81WutOuCiJ5q9bPtT” group-title=“Classic Bollywood Movies”,Baabul
+https://llvod.mxplay.com/video/9741c6e89444826e26a11ff3362acf8e/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="VOD106" tvg-name=“DharamVeer” tvg-logo=“https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDDe0l2UNJZZp5yZt39MZ92qmMmgtRqbfY5jeSwNEwhVpJKrdO” group-title=“Classic Bollywood Movies”,DharamVeer
+https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/DharamVeer-008/256x144_128/video.m3u8
+
+#EXTINF:-1 tvg-id="VOD105" tvg-name="Seeta Aur Geeta" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqu-NHZDWxBEghRW9bbBiGSOkBtXtHtuV8FLoUtcz9qffDnMwR" group-title="Classic Bollywood Movies",Seeta Aur Geeta
+https://llvod.mxplay.com/video/57e1dd3c67279acea059ec80e27b452c/3/hls/h264_1080_baseline_5800k.m3u8
+
+#EXTINF:-1 tvg-id="VOD101" tvg-name=“Home Alone” tvg-logo=“https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIgzfRNCJH4LHXl82vI1d7dBCxhlFw4bXWEWiNLtUZzl3YqmHd” group-title=“Classic Christmas Movies”,Home Alone
+https://noodle.atlas.feralhosting.com/Home%20Alone%201990%20REMASTERED%201080p%20Bluray%2010-bit%20x265%20DTS%205.1%20-%20UTR-HD/Home.Alone.1990.REMASTERED.1080p.Bluray.DTS.5.1.10-bit.x265.%5bUTR-HD%5d.(23CDAD43).mkv
+
+#EXTINF:-1 tvg-id="VOD102" tvg-name=“Home Alone - Lost In New York” tvg-logo=“https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg” group-title=“Classic Christmas Movies”,Home Alone - Lost In New York
+http://188.165.248.6/downloads/FouMovies.home.alone.92.007.mp4?st=6IqVDwCReotTqkuNdy1LIw&e=1622631105
+
+#EXTINF:-1 tvg-id="VOD104" tvg-name=“Elf” tvg-logo=“https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg” group-title=“Classic Christmas Movies”,Elf
+http://103.152.18.18/Data/English/hollywood/2003/Elf%20%282003%29/Elf%20%282003%29.mp4
+
+#EXTINF:-1 tvg-id="VOD108" tvg-name=“Dilwale Dulhania Le Jayenge” tvg-logo=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2D8JgbglbDHmtcGVWQvOvdyMzGtx77Hvsk3S0fBy-Zop7vyL” group-title=“Classic Bollywood Movies”,Dilwale Dulhania Le Jayenge
+http://188.165.248.6/downloads/FouMovies.Dilwale.Dulhania.Le.Jayenge.95.001.mkv?
+
+#EXTINF:-1 tvg-id="VOD109" tvg-name=“Sholay” tvg-logo=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkfOBfNVBOCkdOLfuw2TG1zWq8-iBtdMVS5Tc2u0xd7Ltj7SIqjYYIfP2&s=10” group-title=“Classic Bollywood Movies”,Sholay
+http://162.12.215.254/Data/Movies/Hindi/Old/Sholay%20%281975%29%20%20Hindi%20720p%20WEB-DL%20x264/Sholay%20%281975%29%20%20Hindi%20720p%20WEB-DL%20x264.mkv
+
+#EXTINF:-1 tvg-id="VOD110" tvg-name=“Devdas” tvg-logo=“https://musicart.xboxlive.com/7/c92b1100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080” group-title=“Classic Bollywood Movies”,Devdas
+http://162.12.215.254/Data/Movies/Hindi/Old/Sholay%20%281975%29%20%20Hindi%20720p%20WEB-DL%20x264/Sholay%20%281975%29%20%20Hindi%20720p%20WEB-DL%20x264.mkv
+
+#EXTINF:-1 tvg-id="VOD111" tvg-name=“Baazigar” tvg-logo=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZIBu-dR8Ufid1CGJy2YNNnmJ_5WU2P2Ohg&usqp=CAU” group-title=“Classic Bollywood Movies”,Baazigar
+https://llvod.mxplay.com/video/f4d11fad259c864e12a04ee0f140e775/4/hls/h264_baseline.m3u8
